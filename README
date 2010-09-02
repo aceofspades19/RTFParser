@@ -1,0 +1,1 @@
+An rtf parser written in C++ mostly designed to be used with python. There is an example in rtfparser.cpp that shows how to write to a rtf file
