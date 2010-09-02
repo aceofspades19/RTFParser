@@ -297,6 +297,8 @@ void RTFWriter::replace(const vector<string>& lines){
   wd.replace(lines);
 }
 
+/*
+Example of how to use the parser to write a file
 int main(){
   string f = "borat";
   string fo = "test1.rtf";
@@ -313,3 +315,4 @@ int main(){
   return 0;
   }
 
+*/
